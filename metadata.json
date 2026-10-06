@@ -1,0 +1,6 @@
+{
+  "name": "Smart Booking System",
+  "description": "Production-ready online service booking and schedule management platform with real-time slot availability tracking, JWT authentication, and provider dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
